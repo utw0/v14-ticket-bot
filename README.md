@@ -14,6 +14,7 @@ Detaylı acıklama bilgi almak için discorddan bana ulaşabilirsiniz [luhux](ht
 | Setup | <img alt="image" src="https://github.com/user-attachments/assets/293cbea3-9f8f-4e18-b684-1abf6eecf120"> |
 | Ticket Sıralama | <img alt="image" src="https://github.com/user-attachments/assets/9b41c66d-d58b-467d-8fe9-ce73bffcc25c"> |
 | Transcripts | <img alt="image" src="https://github.com/user-attachments/assets/267dd4af-6139-4c93-9fd0-46bc45a2d46e"> |
+| Ticket | <img alt="image" src="https://github.com/user-attachments/assets/453e27d3-c29b-4f9a-b061-0934ee0a968c"> |
 </details>
 
 ##  Author & Lisence
